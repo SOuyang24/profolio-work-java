@@ -95,6 +95,7 @@ const userData = {
     {
       id: "react",
       name: "React",
+      tag: "frontend",
       imageUrl: `${techStackIconBaseURL}/React-Dark.svg`,
     },
     {
