@@ -552,7 +552,7 @@ const userData = {
   socialLinks: {
     instagram: "",
     twitter: "",
-    linkedin: "https://www.linkedin.com/in/xi-ouyang/",
+    linkedin: ",
     github: "https://github.com/souyang",
   },
 };
