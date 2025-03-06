@@ -18,7 +18,7 @@ export default function Footer() {
               <div className="inline-block transform hover:scale-110 hover:-rotate-3 transition duration-300">
                 <a
                   className="hover:bg-red-500 rounded-md px-2 py-1  hover:text-gray-50"
-                  href={ userData.sociallinks.github}
+                  href="#"
                   target="_blank"
                 >
                   { userData.name }
@@ -26,7 +26,7 @@ export default function Footer() {
               </div>
             </div>
           </div>
-          {userdata.sociallinks.linkedin && <div className="space-x-4 flex flex-row items-center">
+          {userdata.socialLinks.linkedin && <div className="space-x-4 flex flex-row items-center">
             <a
               target="_blank"
               href={userData.socialLinks.linkedin}
